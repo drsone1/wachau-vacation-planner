@@ -1,0 +1,166 @@
+{
+  "site": {
+    "title": "Wachau Urlaubs-Planer",
+    "description": "Ihr persönlicher KI-Assistent für die Planung des perfekten Urlaubs in den Regionen Wachau, Krems und Kamptal in Österreich."
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "planner": "Urlaubsplaner",
+    "accommodations": "Unterkünfte",
+    "dining": "Gastronomie",
+    "activities": "Aktivitäten",
+    "bikeRental": "Fahrradverleih",
+    "myPlan": "Mein Plan",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "about": "Über uns",
+    "terms": "AGB",
+    "privacy": "Datenschutz",
+    "copyright": "© 2025 Wachau Urlaubs-Planer. Alle Rechte vorbehalten."
+  },
+  "home": {
+    "hero": {
+      "title": "Ihr perfekter Wachau-Urlaub erwartet Sie",
+      "subtitle": "Lassen Sie unseren KI-Assistenten Ihr individuelles Wein- und Radabenteuer im schönsten Flusstal Österreichs planen.",
+      "cta": "Jetzt mit der Planung beginnen"
+    },
+    "intro": {
+      "title": "Erleben Sie den Zauber der Wachau",
+      "text": "Die Wachau, eingebettet entlang der Donau, ist ein UNESCO-Weltkulturerbe, bekannt für ihre atemberaubenden Landschaften, historischen Dörfer, erstklassigen Weine und malerischen Radwege. Lassen Sie uns Ihnen helfen, dieses verborgene Juwel mit einem personalisierten Urlaubsplan zu entdecken."
+    },
+    "features": {
+      "title": "Warum mit uns planen",
+      "ai": {
+        "title": "KI-gestützte Planung",
+        "text": "Unser intelligenter Assistent erstellt personalisierte Reiserouten basierend auf Ihren Vorlieben und stellt sicher, dass Sie das Beste erleben, was die Wachau zu bieten hat."
+      },
+      "complete": {
+        "title": "Komplettes Urlaubspaket",
+        "text": "Wir kümmern uns um alle Buchungen und Reservierungen für Unterkünfte, Restaurants und Aktivitäten und bieten Ihnen einen umfassenden Urlaubsplan."
+      },
+      "local": {
+        "title": "Lokale Expertise",
+        "text": "Profitieren Sie von unserem tiefen Wissen über die Region, einschließlich versteckter Schätze und authentischer Erlebnisse, die die meisten Touristen verpassen."
+      }
+    },
+    "testimonials": {
+      "title": "Was unsere Reisenden sagen",
+      "more": "Weitere Erfahrungsberichte lesen"
+    }
+  },
+  "planner": {
+    "title": "Planen Sie Ihren perfekten Wachau-Urlaub",
+    "intro": "Beantworten Sie einige Fragen, um unserem KI-Assistenten zu helfen, Ihren personalisierten Urlaubsplan zu erstellen.",
+    "questions": {
+      "dates": "Wann möchten Sie reisen?",
+      "duration": "Wie lange möchten Sie bleiben?",
+      "people": "Wie viele Personen reisen mit?",
+      "interests": "Was sind Ihre Hauptinteressen?",
+      "budget": "Wie ist Ihr Budgetrahmen?",
+      "accommodation": "Welche Art von Unterkunft bevorzugen Sie?",
+      "activities": "Welche Aktivitäten möchten Sie einschließen?"
+    },
+    "interests": {
+      "wine": "Wein & Weingüter",
+      "biking": "Radfahren",
+      "hiking": "Wandern",
+      "culture": "Kultur & Geschichte",
+      "food": "Essen & Trinken",
+      "relaxation": "Entspannung"
+    },
+    "accommodation": {
+      "hotel": "Hotel",
+      "guesthouse": "Pension/B&B",
+      "apartment": "Ferienwohnung"
+    },
+    "buttons": {
+      "next": "Weiter",
+      "back": "Zurück",
+      "generate": "Meinen Plan erstellen",
+      "modify": "Präferenzen ändern",
+      "book": "Zur Buchung"
+    }
+  },
+  "ai": {
+    "title": "KI-Urlaubsassistent",
+    "subtitle": "Fragen Sie mich alles zur Planung Ihres Wachau-Urlaubs!",
+    "welcome": "Hallo! Ich bin Ihr Wachau-Urlaubsplanungsassistent. Wie kann ich Ihnen bei der Planung Ihrer perfekten Reise in die Regionen Wachau, Krems und Kamptal helfen?",
+    "inputPlaceholder": "Geben Sie Ihre Frage hier ein...",
+    "disclaimer": "Dies ist eine Demonstration unserer KI-Assistentenfunktionen. In der vollständigen Version werden die Antworten detaillierter und personalisierter sein.",
+    "suggestions": {
+      "title": "Versuchen Sie, Folgendes zu fragen:",
+      "wine": "Was sind die besten Weingüter in der Wachau?",
+      "biking": "Erzählen Sie mir von Radwegen entlang der Donau",
+      "hotels": "Was sind die besten Hotels in Dürnstein?",
+      "restaurants": "Empfehlen Sie traditionelle Restaurants in Krems"
+    },
+    "responses": {
+      "wine": "Die Wachau-Region ist berühmt für ihre außergewöhnlichen Weine, insbesondere Grüner Veltliner und Riesling. Zu den Top-Weingütern gehören die Domäne Wachau in Dürnstein, Weingut Knoll in Unterloiben und Nikolaihof in Mautern. Viele bieten Verkostungen mit atemberaubender Aussicht auf die Weinberge und die Donau an. Möchten Sie, dass ich Ihnen bei der Organisation einer Weintour helfe?",
+      "biking": "Das Wachautal bietet einige der landschaftlich reizvollsten Radwege Europas. Der Donauradweg führt durch das gesamte Tal und ist größtenteils flach, was ihn perfekt für Gelegenheitsradfahrer macht. Sie können in Krems oder Melk Fahrräder mieten und eine gemütliche Fahrt durch Weinberge, Marillengärten und charmante Dörfer genießen. Der gesamte Wachau-Abschnitt ist etwa 40 km lang, aber Sie können auch kürzere Abschnitte wählen. Möchten Sie Informationen über Fahrradverleih?",
+      "hotels": "Dürnstein bietet mehrere ausgezeichnete Unterkunftsmöglichkeiten. Das Hotel Schloss Dürnstein bietet Luxuszimmer mit Donaublick und einem Spa. Das Hotel Richard Löwenherz ist ein historisches Anwesen mit einem renommierten Restaurant. Für ein intimeres Erlebnis bietet das Bioweingut Schmidl charmante Zimmer in ihrem Familienweingut. Möchten Sie, dass ich die Verfügbarkeit für Ihre Daten prüfe?",
+      "restaurants": "Krems hat viele wunderbare Essensmöglichkeiten. Das Gasthaus Salzstadl bietet traditionelle österreichische Küche in einem historischen Gebäude. Das Restaurant Mangolds ist bekannt für seine modernen Interpretationen lokaler Gerichte. Für eine ungezwungene Mahlzeit probieren Sie den Heurigen Müllner, ein traditionelles Weinlokal, das lokale Weine und kleine Gerichte serviert. Möchten Sie, dass ich eine Reservierung für Sie vornehme?",
+      "activities": "Neben Wein und Radfahren bietet die Wachau-Region viele Aktivitäten. Sie können das Stift Melk besuchen, ein prächtiges Barockkloster, eine Donaukreuzfahrt zwischen Melk und Krems unternehmen, die Ruinen der Burg Dürnstein erkunden oder das Kremser Kunstviertel besuchen. Es gibt auch Wanderwege in den umliegenden Hügeln mit Panoramablick. Welche Arten von Aktivitäten interessieren Sie am meisten?",
+      "default": "Die Regionen Wachau, Krems und Kamptal bieten eine wunderbare Mischung aus Naturschönheit, Kultur, Wein und Küche. Ich kann Ihnen bei der Planung von Unterkünften, Gastronomie, Aktivitäten und Transport helfen. Bei welchen spezifischen Aspekten Ihrer Reise möchten Sie Unterstützung?"
+    }
+  },
+  "accommodations": {
+    "booking": {
+      "reference": "Buchungsreferenz",
+      "accommodation": "Unterkunft",
+      "checkIn": "Anreisedatum",
+      "checkOut": "Abreisedatum",
+      "guests": "Anzahl der Gäste"
+    }
+  },
+  "activities": {
+    "categories": {
+      "wine": "Weintouren & Verkostungen",
+      "biking": "Radausflüge",
+      "hiking": "Wanderwege",
+      "culture": "Kulturstätten & Museen",
+      "boat": "Donaukreuzfahrten"
+    }
+  },
+  "checkout": {
+    "title": "Buchung abschließen",
+    "bookingDetails": "Buchungsdetails",
+    "payment": "Zahlung",
+    "confirmation": "Bestätigung",
+    "summary": "Bestellübersicht",
+    "subtotal": "Zwischensumme",
+    "serviceFee": "Servicegebühr",
+    "total": "Gesamtsumme",
+    "paymentMethod": "Zahlungsmethode",
+    "creditCard": "Kreditkarte",
+    "cardNumber": "Kartennummer",
+    "cardholderName": "Name des Karteninhabers",
+    "expiryDate": "Ablaufdatum",
+    "cvc": "CVC",
+    "paypalInfo": "Sie werden zu PayPal weitergeleitet, um Ihre Zahlung abzuschließen",
+    "paypalRedirect": "Nach der Zahlung kehren Sie zu dieser Seite zurück, um Ihre Bestätigung zu sehen",
+    "billingInfo": "Rechnungsinformationen",
+    "address": "Adresse",
+    "city": "Stadt",
+    "zipCode": "PLZ",
+    "country": "Land",
+    "termsAgreement": "Ich stimme den Allgemeinen Geschäftsbedingungen zu und habe die Datenschutzrichtlinie gelesen",
+    "refundPolicyAgreement": "Ich verstehe und akzeptiere die Rückerstattungsrichtlinie",
+    "disclaimer": "Indem Sie mit dieser Zahlung fortfahren, bestätigen Sie, dass wir nicht für Fehler von Drittanbietern verantwortlich sind und keine Initiative für Rückerstattungen ergreifen.",
+    "cancel": "Abbrechen",
+    "processing": "Verarbeitung...",
+    "pay": "Zahlung abschließen",
+    "bookingConfirmed": "Buchung bestätigt!",
+    "confirmationMessage": "Ihr Urlaub wurde erfolgreich gebucht. Eine Bestätigungs-E-Mail wurde an Ihre E-Mail-Adresse gesendet.",
+    "paymentReference": "Zahlungsreferenz",
+    "whatNext": "Was kommt als Nächstes?",
+    "confirmationEmail": "Sie erhalten eine detaillierte Bestätigungs-E-Mail mit allen Buchungsinformationen.",
+    "vacationPlanDocument": "Ihr vollständiges Urlaubsplandokument steht unten zum Download bereit.",
+    "contactInfo": "Bei Fragen wenden Sie sich bitte an unser Support-Team.",
+    "returnHome": "Zurück zur Startseite",
+    "serviceFeeCalculator": "Servicegebührenrechner",
+    "serviceFeePercentage": "Servicegebührenprozentsatz",
+    "serviceFeeExplanation": "Die Servicegebühr deckt unsere Kosten für die Planung und Verwaltung Ihres Urlaubs, einschließlich aller Buchungen und Kundenservice."
+  }
+}

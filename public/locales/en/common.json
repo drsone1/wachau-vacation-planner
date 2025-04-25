@@ -1,0 +1,166 @@
+{
+  "site": {
+    "title": "Wachau Vacation Planner",
+    "description": "Your personal AI assistant for planning the perfect vacation in the Wachau, Krems, and Kamptal regions of Austria."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "planner": "Vacation Planner",
+    "accommodations": "Accommodations",
+    "dining": "Dining",
+    "activities": "Activities",
+    "bikeRental": "Bike Rental",
+    "myPlan": "My Plan",
+    "contact": "Contact"
+  },
+  "footer": {
+    "about": "About Us",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "copyright": "© 2025 Wachau Vacation Planner. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Your Perfect Wachau Vacation Awaits",
+      "subtitle": "Let our AI assistant plan your custom wine and biking adventure in Austria's most beautiful river valley.",
+      "cta": "Start Planning Now"
+    },
+    "intro": {
+      "title": "Experience the Magic of Wachau",
+      "text": "Nestled along the Danube River, the Wachau Valley is a UNESCO World Heritage site known for its stunning landscapes, historic villages, world-class wines, and scenic biking routes. Let us help you discover this hidden gem with a personalized vacation plan."
+    },
+    "features": {
+      "title": "Why Plan with Us",
+      "ai": {
+        "title": "AI-Powered Planning",
+        "text": "Our intelligent assistant creates personalized itineraries based on your preferences, ensuring you experience the best of what Wachau has to offer."
+      },
+      "complete": {
+        "title": "Complete Vacation Package",
+        "text": "We handle all bookings and reservations for accommodations, restaurants, and activities, providing you with a comprehensive vacation plan."
+      },
+      "local": {
+        "title": "Local Expertise",
+        "text": "Benefit from our deep knowledge of the region, including hidden gems and authentic experiences that most tourists miss."
+      }
+    },
+    "testimonials": {
+      "title": "What Our Travelers Say",
+      "more": "Read more testimonials"
+    }
+  },
+  "planner": {
+    "title": "Plan Your Perfect Wachau Vacation",
+    "intro": "Answer a few questions to help our AI assistant create your personalized vacation plan.",
+    "questions": {
+      "dates": "When would you like to visit?",
+      "duration": "How long would you like to stay?",
+      "people": "How many people are traveling?",
+      "interests": "What are your main interests?",
+      "budget": "What is your budget range?",
+      "accommodation": "What type of accommodation do you prefer?",
+      "activities": "Which activities would you like to include?"
+    },
+    "interests": {
+      "wine": "Wine & Vineyards",
+      "biking": "Biking",
+      "hiking": "Hiking",
+      "culture": "Culture & History",
+      "food": "Food & Dining",
+      "relaxation": "Relaxation"
+    },
+    "accommodation": {
+      "hotel": "Hotel",
+      "guesthouse": "Guesthouse/B&B",
+      "apartment": "Apartment/Vacation Rental"
+    },
+    "buttons": {
+      "next": "Next",
+      "back": "Back",
+      "generate": "Generate My Plan",
+      "modify": "Modify Preferences",
+      "book": "Proceed to Booking"
+    }
+  },
+  "ai": {
+    "title": "AI Vacation Assistant",
+    "subtitle": "Ask me anything about planning your Wachau vacation!",
+    "welcome": "Hello! I'm your Wachau vacation planning assistant. How can I help you plan your perfect trip to the Wachau, Krems, and Kamptal regions?",
+    "inputPlaceholder": "Type your question here...",
+    "disclaimer": "This is a demonstration of our AI assistant capabilities. In the full version, responses will be more detailed and personalized.",
+    "suggestions": {
+      "title": "Try asking about:",
+      "wine": "What are the best wineries to visit in Wachau?",
+      "biking": "Tell me about biking routes along the Danube",
+      "hotels": "What are the best hotels in Dürnstein?",
+      "restaurants": "Recommend traditional restaurants in Krems"
+    },
+    "responses": {
+      "wine": "The Wachau region is famous for its exceptional wines, particularly Grüner Veltliner and Riesling. Some top wineries to visit include Domäne Wachau in Dürnstein, Weingut Knoll in Unterloiben, and Nikolaihof in Mautern. Many offer tastings with stunning views of the vineyards and Danube River. Would you like me to help you arrange a wine tour?",
+      "biking": "The Wachau Valley offers some of Europe's most scenic biking routes. The Danube Cycle Path (Donauradweg) runs through the entire valley and is mostly flat, making it perfect for casual cyclists. You can rent bikes in Krems or Melk and enjoy a leisurely ride through vineyards, apricot orchards, and charming villages. The full Wachau section is about 40km, but you can choose shorter segments. Would you like information about bike rentals?",
+      "hotels": "Dürnstein has several excellent accommodation options. Hotel Schloss Dürnstein offers luxury rooms with Danube views and a spa. Hotel Richard Löwenherz is a historic property with a renowned restaurant. For a more intimate experience, Bioweingut Schmidl offers charming rooms at their family winery. Would you like me to check availability for your dates?",
+      "restaurants": "Krems has many wonderful dining options. Gasthaus Salzstadl offers traditional Austrian cuisine in a historic building. Restaurant Mangolds is known for its modern interpretations of local dishes. For a casual meal, try Heurigen Müllner, a traditional wine tavern serving local wines and small plates. Would you like me to make a reservation for you?",
+      "activities": "Beyond wine and biking, the Wachau region offers many activities. You can visit Melk Abbey, a magnificent Baroque monastery, take a Danube river cruise between Melk and Krems, explore Dürnstein Castle ruins, or visit the Krems Arts District. There are also hiking trails in the surrounding hills with panoramic views. What kinds of activities interest you most?",
+      "default": "The Wachau, Krems, and Kamptal regions offer a wonderful mix of natural beauty, culture, wine, and cuisine. I can help you plan accommodations, dining, activities, and transportation. What specific aspects of your trip would you like assistance with?"
+    }
+  },
+  "accommodations": {
+    "booking": {
+      "reference": "Booking Reference",
+      "accommodation": "Accommodation",
+      "checkIn": "Check-in Date",
+      "checkOut": "Check-out Date",
+      "guests": "Number of Guests"
+    }
+  },
+  "activities": {
+    "categories": {
+      "wine": "Wine Tours & Tastings",
+      "biking": "Biking Excursions",
+      "hiking": "Hiking Trails",
+      "culture": "Cultural Sites & Museums",
+      "boat": "Danube River Cruises"
+    }
+  },
+  "checkout": {
+    "title": "Complete Your Booking",
+    "bookingDetails": "Booking Details",
+    "payment": "Payment",
+    "confirmation": "Confirmation",
+    "summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "serviceFee": "Service Fee",
+    "total": "Total",
+    "paymentMethod": "Payment Method",
+    "creditCard": "Credit Card",
+    "cardNumber": "Card Number",
+    "cardholderName": "Cardholder Name",
+    "expiryDate": "Expiry Date",
+    "cvc": "CVC",
+    "paypalInfo": "You will be redirected to PayPal to complete your payment",
+    "paypalRedirect": "After payment, you will return to this site to see your confirmation",
+    "billingInfo": "Billing Information",
+    "address": "Address",
+    "city": "City",
+    "zipCode": "ZIP/Postal Code",
+    "country": "Country",
+    "termsAgreement": "I agree to the Terms and Conditions and have read the Privacy Policy",
+    "refundPolicyAgreement": "I understand and agree to the refund policy",
+    "disclaimer": "By proceeding with this payment, you acknowledge that we are not responsible for mistakes made by third parties, and we don't take initiative for refunds.",
+    "cancel": "Cancel",
+    "processing": "Processing...",
+    "pay": "Complete Payment",
+    "bookingConfirmed": "Booking Confirmed!",
+    "confirmationMessage": "Your vacation has been successfully booked. A confirmation email has been sent to your email address.",
+    "paymentReference": "Payment Reference",
+    "whatNext": "What's Next?",
+    "confirmationEmail": "You will receive a detailed confirmation email with all your booking information.",
+    "vacationPlanDocument": "Your complete vacation plan document is available for download below.",
+    "contactInfo": "If you have any questions, please contact our support team.",
+    "returnHome": "Return to Home",
+    "serviceFeeCalculator": "Service Fee Calculator",
+    "serviceFeePercentage": "Service Fee Percentage",
+    "serviceFeeExplanation": "The service fee covers our costs for planning and managing your vacation, including all bookings and customer support."
+  }
+}
